@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-LandingPage/static/css/main.749ee977.css",
+    "main.js": "/React-LandingPage/static/js/main.6c92aefa.js",
+    "static/media/Merlin.jpeg": "/React-LandingPage/static/media/Merlin.0332323b2006af11e597.jpeg",
+    "static/media/Kizuna.jpeg": "/React-LandingPage/static/media/Kizuna.0e75c56a1397c4156d4e.jpeg",
+    "static/media/Lilie.jpeg": "/React-LandingPage/static/media/Lilie.5f5b5f1d5e26c81d1ea5.jpeg",
+    "index.html": "/React-LandingPage/index.html",
+    "main.749ee977.css.map": "/React-LandingPage/static/css/main.749ee977.css.map",
+    "main.6c92aefa.js.map": "/React-LandingPage/static/js/main.6c92aefa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749ee977.css",
+    "static/js/main.6c92aefa.js"
+  ]
+}
